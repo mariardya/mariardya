@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning <b>Data Analytic.
 - 📝 Check out my recent [Blogs](https://medium.com/@mariardya)
-- ✨ I shoot too.[ArtGallery](https://www.instagram.com/tustelan/)
+- ✨ And my analog archive [ArtGallery](https://www.instagram.com/tustelan/)
 - ⚡ Other things that I love:
      - Playing games 🎮
      - Watching movies and TV shows 📺
