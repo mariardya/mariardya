@@ -1,40 +1,35 @@
-### Hello World 👋 I'm [Maria!]
-
+### Hello World 👋 I'm Maria!
+ 
 <br/>
 
-
-<a href="https://x.com/mariardya">
-<img align="center" alt="Maria Ardya | X" width="22px" src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" />
-</a>
-<a href="https://www.linkedin.com/in/mariardya/">
-<img align="center" alt="Maria Ardya" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://medium.com/@mariardya">
-<img align="center" alt="Maria Ardya" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://www.instagram.com/mariardya/">
-<img align="center" alt="Maria Ardya" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://steamcommunity.com/profiles/76561198410004489/
-<img align="center" alt="Maria Ardya | Lunaire" width="22px" src="https://camo.githubusercontent.com/a4a557d85d9e36c0e9fbda0496633cc8c14261f813d9f94592f64185a730fbae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537465616d2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d737465616d266c6f676f436f6c6f723d7768697465" />
-</a>
-<br />
+<p align="center">
+  <a href="https://twitter.com/mariardya">
+       <img width="75px" src="https://github.com/mariardya/mariardya/assets/109213696/2f97409b-5f20-431e-a6d9-b4e8c480c0ea">&ensp;
+  <a href="https://www.linkedin.com/in/mariardya/">
+       <img width="75px" src="https://github.com/mariardya/mariardya/assets/109213696/d1907d34-a526-43fb-99a3-db2f99079bd3">&ensp;
+  <a href="https://steamcommunity.com/profiles/-lunaire">
+       <img width="75px" src="https://github.com/mariardya/mariardya/assets/109213696/fb864909-9f0b-45b3-85fb-0a20bc6055e0">
+</p>
 
 <br />
 
-- 🌱 I’m currently learning <b>Data Analytic.
-- 📝 Check out my recent [Blogs](https://medium.com/@mariardya)
-- ✨ And my [Analog Archive](https://www.instagram.com/tustelan/)
-- ⚡ Other things that I love:
+- 🌱 I’m currently learning <b>Data Analytics.
+- 📝 Check out my recent [blogs](https://medium.com/@mariardya)
+- ✨ And my [analog archive](https://www.instagram.com/tustelan/)
+- ⚡ Leisure activity that I enjoy:
      - Playing games 🎮
      - Watching movies and TV shows 📺
+<hr>
 
-**Languages and Tools:**
+Languages and Tools:
 
-
-<code><img height="20" src="https://github.com/mariardya/mariardya/assets/109213696/e45c5c1c-1ea1-475f-b654-622e2287f38f"></code>
-<code><img height="20" src="https://github.com/mariardya/mariardya/assets/109213696/04be4324-b6ce-4b1c-942a-01db5b3e63bc"></code>
-<code><img height="20" src="https://github.com/mariardya/mariardya/assets/109213696/d11b4bbd-fa8e-488c-800f-e93afe49239f"></code>
-<code><img height="20" src="https://github.com/mariardya/mariardya/assets/109213696/6d9cc0e4-f5e6-4aec-923f-71e90f437642"></code>
+<p align="center">
+  <img height="30" src="https://github.com/mariardya/mariardya/assets/109213696/e45c5c1c-1ea1-475f-b654-622e2287f38f">
+  <img height="30" src="https://github.com/mariardya/mariardya/assets/109213696/04be4324-b6ce-4b1c-942a-01db5b3e63bc">
+  <img height="30" src="https://github.com/mariardya/mariardya/assets/109213696/d11b4bbd-fa8e-488c-800f-e93afe49239f">
+  <img height="30" src="https://github.com/mariardya/mariardya/assets/109213696/6d9cc0e4-f5e6-4aec-923f-71e90f437642">
+</p>
+<br />
+<hr>
 
 ![Maria's github stats](https://github-readme-stats.vercel.app/api?username=mariardya&show_icons=true&hide_border=true)
