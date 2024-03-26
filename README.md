@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://twitter.com/mariardya">
-       <img width="75px" src="https://github.com/mariardya/mariardya/assets/109213696/2f97409b-5f20-431e-a6d9-b4e8c480c0ea">&ensp;
+       <img width="75px" src="https://github.com/mariardya/mariardya/assets/109213696/9a01041c-dd29-4aa5-9d48-93f3c710769a">&ensp;
   <a href="https://www.linkedin.com/in/mariardya/">
        <img width="75px" src="https://github.com/mariardya/mariardya/assets/109213696/d1907d34-a526-43fb-99a3-db2f99079bd3">&ensp;
   <a href="https://steamcommunity.com/profiles/-lunaire">
