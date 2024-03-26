@@ -1,4 +1,4 @@
-### Hello World 👋 I'm Maria!
+### Hi 👋 I'm Maria!
  
 <br/>
 
