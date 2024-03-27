@@ -19,7 +19,7 @@
      - Watching movies and TV shows 📺
 <hr>
 
-Languages and Tools:
+🛠️ Languages and Tools:
 
 <p align="center">
   <img height="25" src="https://github.com/mariardya/mariardya/assets/109213696/e45c5c1c-1ea1-475f-b654-622e2287f38f">
@@ -34,7 +34,7 @@ Languages and Tools:
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=mariardya&show_icons=true&theme=radical" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariardya&theme=radical&langs_count=8&layout=compact" /></div>
+<img style="height: auto; width: 30%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariardya&theme=radical&langs_count=8&layout=compact" /></div>
 </div>
 
 <hr>
