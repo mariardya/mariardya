@@ -4,11 +4,11 @@
 
 <p align="center">
   <a href="https://twitter.com/mariardya">
-       <img width="90px" src="https://github.com/mariardya/mariardya/assets/109213696/79631318-aab3-4af0-806f-b1faf64c5290">&ensp;
+       <img width="88px" src="https://github.com/mariardya/mariardya/assets/109213696/79631318-aab3-4af0-806f-b1faf64c5290">&ensp;
   <a href="https://www.linkedin.com/in/mariardya/">
-       <img width="90px" src="https://github.com/mariardya/mariardya/assets/109213696/d1907d34-a526-43fb-99a3-db2f99079bd3">&ensp;
-  <a href="https://steamcommunity.com/profiles/-lunaire">
-       <img width="90px" src="https://github.com/mariardya/mariardya/assets/109213696/fb864909-9f0b-45b3-85fb-0a20bc6055e0">
+       <img width="88px" src="https://github.com/mariardya/mariardya/assets/109213696/d1907d34-a526-43fb-99a3-db2f99079bd3">&ensp;
+  <a href="https://steamcommunity.com/id/-lunaire">
+       <img width="88px" src="https://github.com/mariardya/mariardya/assets/109213696/fb864909-9f0b-45b3-85fb-0a20bc6055e0">
 </p>
 
 <br />
