@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://twitter.com/mariardya">
-       <img width="88px" src="https://github.com/mariardya/mariardya/assets/109213696/79631318-aab3-4af0-806f-b1faf64c5290">&ensp;
+       <img width="88px" src="https://img.shields.io/badge/twitter-mariardya-1da1f2.svg?&style=for-the-badge&logo=twitter">&ensp;
   <a href="https://www.linkedin.com/in/mariardya/">
        <img width="88px" src="https://github.com/mariardya/mariardya/assets/109213696/d1907d34-a526-43fb-99a3-db2f99079bd3">&ensp;
 </p>
