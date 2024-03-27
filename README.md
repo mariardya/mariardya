@@ -37,12 +37,14 @@ Languages and Tools:
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariardya&theme=radical&langs_count=8&layout=compact" /></div>
 </div>
 
+<hr>
+
+<div align="center" style="display: flex; flex-direction: row;">
+ <img class="img" src="https://lanyard-profile-readme.vercel.app/api/660791014658670625?theme=dark&bg=111b2c&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20doing%20something%20else..." />
+</div>
 
 <hr>
 
 <div align="center" style="display: flex; flex-direction: row;">
- <img class="img" src="https://lanyard-profile-readme.vercel.app/api/660791014658670625?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20doing%20something%20else..." />
+ <img class="img" src="https://spotify-recently-played-readme.vercel.app/api?user=mariardya" />
 </div>
-
-
-<hr>
