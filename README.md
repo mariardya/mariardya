@@ -2,8 +2,11 @@
  
 <br/>
 
-[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@mariardya)](https://medium.com/@mariardya)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/mariardya/)](https://www.linkedin.com/in/mariardya/)
+<div align="center" class='container'>
+<img style="height: auto;" class="img" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/mariardya/" /> &ensp;
+<img style="height: auto;" class="img" src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@mariardya" /> &ensp;
+<img style="height: auto;" class="img" src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&link=twitter.com%2Fmariardya" />
+</div>
 
 <br />
 
