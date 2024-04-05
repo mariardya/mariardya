@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋 I'm Maria!</h1>
-
-<br />
+<h1 align="center">Hi there!👋</h1>
 
 <div align="center" class='container'>
 <a href=""><img style="height: auto;" class="img" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"><a/> &ensp;
 <a href="https://www.hackerrank.com/profile/mariardya"><img style="height: auto;" class="img" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"><a/> &ensp;
+<a href="https://steamcommunity.com/id/-lunaire"><img style="height: auto;" class="img" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"><a/> &ensp;
 </div>
 
 <br/>
 
-- 🌱 I’m currently learning <b>Data Analytics.
-- ⚡ Leisure activity that I enjoy:
-     - Playing games 🎮
-     - Watching movies and TV shows 📺
+👩‍💻 Hello, I'm Maria. I graduated from Sebelas Maret University of Surakarta. Two years ago, I began learning data analytics.
+
+🌱 I'm always excited to learn new tech stuff.
+
+⚡ Fun fact: In my free times, I like playing games 🎮 and marathoning movies or TV shows!📺
 
 <br />
 
