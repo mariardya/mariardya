@@ -1,11 +1,5 @@
 <h1 align="center">Hi there!👋</h1>
 
-<div align="center" class='container'>
-<a href=""><img style="height: auto;" class="img" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"><a/> &ensp;
-<a href="https://www.hackerrank.com/profile/mariardya"><img style="height: auto;" class="img" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"><a/> &ensp;
-<a href="https://steamcommunity.com/id/-lunaire"><img style="height: auto;" class="img" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"><a/> &ensp;
-</div>
-
 <br/>
 
 👩‍💻 Hello, I'm Maria. I graduated from Sebelas Maret University of Surakarta. Two years ago, I began learning data analytics.
