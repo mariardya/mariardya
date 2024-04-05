@@ -2,6 +2,13 @@
 
 <br />
 
+<div align="center" class='container'>
+<a href="https://kaggle.com/mariardya"><img style="height: auto;" class="img" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"><a/> &ensp;
+<a href="https://www.hackerrank.com/profile/mariardya"><img style="height: auto;" class="img" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"><a/> &ensp;
+</div>
+
+<br/>
+
 - 🌱 I’m currently learning <b>Data Analytics.
 - ⚡ Leisure activity that I enjoy:
      - Playing games 🎮
