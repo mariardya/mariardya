@@ -16,7 +16,7 @@
 
 <br />
 
-🛠️ Languages and Tools:
+<h2>🛠️ Languages and Tools:<h2/>
 
 <p align="center">
   <img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
