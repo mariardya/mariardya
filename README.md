@@ -10,6 +10,8 @@
 
 👩‍💻 Hello, I'm Maria. I graduated from Sebelas Maret University of Surakarta. Two years ago, I began learning data analytics.
 
+🔭 Right now, I'm focusing on enchancing my experience in handling various data for my portfolio.
+
 🌱 I'm always excited to learn new tech stuff.
 
 ⚡ Fun fact: In my free times, I like playing games 🎮 and marathoning movies or TV shows!📺
