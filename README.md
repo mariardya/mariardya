@@ -1,12 +1,4 @@
 <h1 align="center">Hi 👋 I'm Maria!</h1>
- 
-<br/>
-
-<div align="center" class='container'>
-<a href="https://www.linkedin.com/in/mariardya/"><img style="height: auto;" class="img" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/mariardya/"><a/> &ensp;
-<a href="https://medium.com/@mariardya"><img style="height: auto;" class="img" src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@mariardya"><a/> &ensp;
-<a href="https://twitter.com/@mariardya"><img style="height: auto;" class="img" src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&link=twitter.com%2Fmariardya"><a/>
-</div>
 
 <br />
 
@@ -20,10 +12,11 @@
 🛠️ Languages and Tools:
 
 <p align="center">
-  <img height="25" src="https://github.com/mariardya/mariardya/assets/109213696/e45c5c1c-1ea1-475f-b654-622e2287f38f">
-  <img height="25" src="https://github.com/mariardya/mariardya/assets/109213696/04be4324-b6ce-4b1c-942a-01db5b3e63bc">
-  <img height="25" src="https://github.com/mariardya/mariardya/assets/109213696/d11b4bbd-fa8e-488c-800f-e93afe49239f">
-  <img height="25" src="https://github.com/mariardya/mariardya/assets/109213696/6d9cc0e4-f5e6-4aec-923f-71e90f437642">
+  <img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img height="25" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
+  <img height="25" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img height="25" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+  <img height="25" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white">
 </p>
 
 <br />
